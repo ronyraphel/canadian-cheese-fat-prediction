@@ -1,2 +1,3 @@
 # canadian-cheese-fat-prediction
-Predicting fat levels in Canadian cheeses using machine learning
+Machine learning project predicting fat levels in Canadian cheeses
+
