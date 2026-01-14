@@ -4,7 +4,7 @@
 
 This project focuses on predicting the **fat level of Canadian cheeses** using machine learning techniques. By leveraging manufacturing characteristics, milk type, and moisture content, the model classifies cheeses into fat categories such as **Low Fat**, **Medium Fat**, and **High Fat**.
 
-This project was completed as a **final-year academic project** for **COIS 3550 – Applied AI and Machine Learning** during my **Bachelor’s degree in Computer Science at Trent University**.
+This project was completed as a **final-year academic project** during my **Bachelor’s degree in Computer Science at Trent University**.
 
 ---
 
