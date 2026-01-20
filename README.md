@@ -9,7 +9,7 @@ This project was completed as a **final-year academic project** during my **Bach
 ---
 
 ## 📘 Project Context
-The goal of this project was to apply real-world machine learning techniques to a structured dataset and demonstrate the complete ML lifecycle—from data preprocessing to model evaluation and interpretation.
+The goal of this project was to apply real-world machine learning techniques to a structured dataset and demonstrate the complete ML lifecycle from data preprocessing to model evaluation and interpretation.
 
 ---
 
