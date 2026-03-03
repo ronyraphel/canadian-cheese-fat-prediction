@@ -131,6 +131,6 @@ Through this project, I gained hands-on experience in:
 
 ## 👤 Author
 
-**Rony Raphel, 2025 **  
+Rony Raphel, 2025  
 Bachelor of Computer Science – Trent University  
-Machine Learning | Software Development
+Machine Learning | Software Development 
