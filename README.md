@@ -38,7 +38,7 @@ All personally identifiable or sensitive data has been excluded. The dataset was
 
 ---
 
-## 🧠 Methodology
+## 🧠 Methodology 
 
 ### 1. Data Preparation
 - Removed non-informative identifiers and descriptive fields  
