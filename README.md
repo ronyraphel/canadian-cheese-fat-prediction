@@ -1,6 +1,6 @@
 # 🧀 Canadian Cheese Fat Level Prediction
 
-## Overview
+## Summary
 
 This project focuses on predicting the **fat level of Canadian cheeses** using machine learning techniques. By leveraging manufacturing characteristics, milk type, and moisture content, the model classifies cheeses into fat categories such as **Low Fat**, **Medium Fat**, and **High Fat**.
 
