@@ -133,4 +133,4 @@ Through this project, I gained hands-on experience in:
 
 Rony Raphel, March 2025
 Bachelor of Computer Science – Trent University  
-Machine Learning | Software Development 
+Machine Learning | Software Development | Applied AI
